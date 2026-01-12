@@ -131,7 +131,7 @@ General Research Fund (Ref No. 14211223)
 
 ## 🔗 Repository
 
-https://github.com/duydinhlab/ENTAgents
+https://github.com/duydinhlab/ENTAgent
 
 
 
