@@ -4,7 +4,7 @@
 This repository accompanies the manuscript:
 
 **ENTAgent: AI Agents for Complex Knowledge Otolaryngology**  
-Tsz Kin Chan, Dinh-Nguyen, Nguyen, Ngoc-Duy Dinh  
+Tsz Kin Chan, Dinh-Nguyen Nguyen, Ngoc-Duy Dinh  
 
 ---
 
